@@ -1,2 +1,2 @@
-# My-First-Library
-This is the first  library I have created.
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
